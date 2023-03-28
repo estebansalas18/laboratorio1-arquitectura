@@ -1,4 +1,4 @@
-# laboratorio1-arquitectura
+# Laboratorio 1 - Arquitectura de Software
 Desarrollar una aplicación web con JEE y Apache Maven para facilitar la gestión de dependencias y realizar la automatización de los builds del proyecto.
 
 Realizado por:
